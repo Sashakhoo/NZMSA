@@ -1,0 +1,14 @@
+C:\Users\natakhoo\Desktop\NZMS\bin\Debug\net8.0\NZMS.exe
+C:\Users\natakhoo\Desktop\NZMS\bin\Debug\net8.0\NZMS.deps.json
+C:\Users\natakhoo\Desktop\NZMS\bin\Debug\net8.0\NZMS.runtimeconfig.json
+C:\Users\natakhoo\Desktop\NZMS\bin\Debug\net8.0\NZMS.dll
+C:\Users\natakhoo\Desktop\NZMS\bin\Debug\net8.0\NZMS.pdb
+C:\Users\natakhoo\Desktop\NZMS\obj\Debug\net8.0\NZMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natakhoo\Desktop\NZMS\obj\Debug\net8.0\NZMS.AssemblyInfoInputs.cache
+C:\Users\natakhoo\Desktop\NZMS\obj\Debug\net8.0\NZMS.AssemblyInfo.cs
+C:\Users\natakhoo\Desktop\NZMS\obj\Debug\net8.0\NZMS.csproj.CoreCompileInputs.cache
+C:\Users\natakhoo\Desktop\NZMS\obj\Debug\net8.0\NZMS.dll
+C:\Users\natakhoo\Desktop\NZMS\obj\Debug\net8.0\refint\NZMS.dll
+C:\Users\natakhoo\Desktop\NZMS\obj\Debug\net8.0\NZMS.pdb
+C:\Users\natakhoo\Desktop\NZMS\obj\Debug\net8.0\NZMS.genruntimeconfig.cache
+C:\Users\natakhoo\Desktop\NZMS\obj\Debug\net8.0\ref\NZMS.dll
